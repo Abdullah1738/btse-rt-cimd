@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/Abdullah1738/btse-rt-cimd/main/client-metadata.json?v=rt1",
+  "client_id": "https://raw.githack.com/Abdullah1738/btse-rt-cimd/main/client-metadata.json",
   "client_name": "rt-cimd-probe",
   "redirect_uris": ["https://rt-client.example/oauth/callback"],
   "token_endpoint_auth_method": "none",
