@@ -1,1 +1,9 @@
-{"client_id":"placeholder"}
+{
+  "client_id": "https://raw.githubusercontent.com/Abdullah1738/btse-rt-cimd/main/client-metadata.json",
+  "client_name": "rt-cimd-probe",
+  "redirect_uris": ["https://rt-client.example/oauth/callback"],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "scope": "openid https://www.googleapis.com/auth/drive.readonly"
+}
